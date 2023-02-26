@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&family=Roboto&display=swap');
+
+
+body {
+    background-image:url(/img/libras.jpg);
+    background-position: center;
+    background-size:100%;
+    margin: none;
+}
+
+#encabe {
+    background-color: rgb(100, 51, 23);
+    *border: solid red;
+    width: 70rem;
+    margin-top: 2rem;
+    margin-left: -10px;    
+    text-align: center;
+    border-radius: 30PX;
+    padding: 0.1rem;
+}
+
+#titu {
+    color: white;
+    font-size: 2rem ;    
+    font-family: Boboto;    
+    margin-bottom: 0px;
+    margin-left: 1rem;
+}
+
+#quij {
+    color: black;
+    font-family: Mynerve;
+    font-size: 3rem;
+}
+
+#subtit {
+    color: white;
+    margin-top: 3rem;
+    font-family: Boboto;
+}
+
+#frase {
+    position: absolute;
+    left: 50rem;
+    top: 5rem;
+    box-shadow: 0 8px 5px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#lib {
+    background-color: #000000ff;    
+    width: 30rem;
+    margin-left: 10rem;
+    margin: 2rem;   
+}
+
+#container {
+    background-color: #ffffffaa;
+    color: #000000;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: Mynerve;
+    font-size: 20px;
+    font-style: normal;
+    box-shadow: 0 8px 5px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#caja {
+    padding: 0.5rem;
+}
+
+#pagination {
+    margin-left: 9rem;
+}
+
+.lb1 {
+    color: black;
+    text-decoration: none;
+    font-style: none;
+}
